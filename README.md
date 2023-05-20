@@ -48,10 +48,7 @@ The main features of this project include:
 
 OR
 
-1. Download the compiled binary under releases (https://github.com/liebki/RichPresenceMinecraftDungeons/releases)
-2. Install the certificate by selecting "Yes" the window popping up should look like this: 
-![Fiddler Certificate Window](https://www.telerik.com/sfimages/default-source/blogs/image_thumb-5--png-png)
-3. After selecting "yes" the software should be hidden and after using dungeons, the rich presence should change the content
+- See the test-section one below
 
 Information:
 - Please note that the Rich Presence may not be immediately visible or updated upon starting the application. It typically changes and becomes active once you have started the first level in the game.

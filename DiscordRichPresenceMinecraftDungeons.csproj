@@ -32,6 +32,18 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>DiscordRichPresenceMinecraftDungeons.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4CC985A1DD64C3509A356A0B523E84D46C58588B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="BasicFormatsForCore, Version=2.6.2.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\FiddlerCore.4.6.2.0\lib\net40\BasicFormatsForCore.dll</HintPath>
@@ -70,7 +82,6 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <Content Include="Screenshots\Example-RichPresence.PNG" />
   </ItemGroup>

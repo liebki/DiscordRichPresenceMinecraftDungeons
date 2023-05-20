@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("DiscordRichPresenceMinecraftDungeons")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Small application that gives the ability to use Discord Rich Presence with Minecraft Dungeons.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DiscordRichPresenceMinecraftDungeons")]
-[assembly: AssemblyCopyright("Copyright ©  2023")]
+[assembly: AssemblyCopyright("None")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
